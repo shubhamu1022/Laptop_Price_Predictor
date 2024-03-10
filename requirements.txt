@@ -1,0 +1,14 @@
+streamlit
+sklearn
+xgboost
+pandas
+matplotlib
+numpy
+sklearn
+seaborn
+
+
+
+
+
+
